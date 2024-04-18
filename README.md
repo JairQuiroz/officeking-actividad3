@@ -2,4 +2,4 @@
 gcloud compute instances list
 :::
 
-Bogar
+GCLOUD COMPUTE INSTANCES LIST | -I GREP INTERNAL_IP | AWK ´{PRINT $2}´
