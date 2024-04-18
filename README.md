@@ -1,6 +1,6 @@
-##Fer Rivera
+,
 gcloud compute instances list
-gcloud compute addresses list
 :::
+En la consola de Google Cloud, ve a la página Buckets de Cloud Storage. Ir a Buckets.
 
-Bogar
+GCLOUD COMPUTE INSTANCES LIST | -I GREP INTERNAL_IP | AWK ´{PRINT $2}´
